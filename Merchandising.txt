@@ -1,0 +1,9 @@
+234; "Maglietta" ; 30
+435; "Pantaloncini" ; 25
+121; "Cappello" ; 20
+452; "Canotta" ; 60
+134; "Maglietta" ;20
+980; "Maglietta" ; 35
+249; "Cappello" ; 20
+907; "Canotta" ; 60
+991; "Pantaloncini" ; 20
